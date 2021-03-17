@@ -1,7 +1,0 @@
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\bin\Debug\lesson3tasks.exe.config
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\bin\Debug\lesson3tasks.exe
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\bin\Debug\lesson3tasks.pdb
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\obj\Debug\lesson3tasks.csprojAssemblyReference.cache
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\obj\Debug\lesson3tasks.csproj.CoreCompileInputs.cache
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\obj\Debug\lesson3tasks.exe
-D:\files\C#\lesson3\lesson3tasks\lesson3tasks\obj\Debug\lesson3tasks.pdb
